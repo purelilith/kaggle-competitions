@@ -7,4 +7,5 @@ My solutions for Kaggle competitions.
 ## Projects
 
 * [flower-classification](./flower-classification) — flower classification using ResNet50 (transfer learning, PyTorch).
-* [student-health-risk](./student-health-risk) — LightGBM & CatBoost & XGBoost ensemble for student health risk prediction. 
+* [student-health-risk](./student-health-risk) — LightGBM & CatBoost & XGBoost ensemble for student health risk prediction.
+* [smartphone-addiction](./smartphone-addiction) - XGBoost & CatBoost & LightGBM ensemble for smartphone addiction prediction.
